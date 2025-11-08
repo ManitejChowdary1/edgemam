@@ -37,13 +37,7 @@ function App() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.8, duration: 1 }}
       >
-        “Ma’am, it’s hard to express how grateful we are to have had you this semester. 
-        We’ve learned so many new technologies, and your way of teaching made even the 
-        most complex concepts feel simple and easy to understand. At first, we thought 
-        Edge Computing would be a tough subject, but you made it enjoyable and engaging. 
-        Thank you for always being patient, for correcting our mistakes with care, and for 
-        guiding us whenever we needed support. Your motivation and teaching have truly made 
-        a difference in our learning journey.”
+        “You’ve been the perfect bridge between the Fog of confusion and the Cloud of clarity. With your guidance, every complex concept became simple and every doubt got processed faster than any edge device could. You didn’t just teach us about Fog, Edge, and Cloud — you connected us all through the network of learning, care, and inspiration. Thank you for being the true backbone of our system and the reason our journey in Edge Computing will always stay unforgettable.”
       </motion.p>
 
       {/* Signature */}
