@@ -70,7 +70,7 @@ function App() {
 
         <div className="student-card">
           <img src={bhramajPhoto} alt="Bhramaj" className="student-photo" />
-          <p className="student-name">Bhramaj</p>
+          <p className="student-name">Brahmaji</p>
         </div>
       </div>
     </div>
