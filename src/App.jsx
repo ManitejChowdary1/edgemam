@@ -28,7 +28,7 @@ function App() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-      Thank You, Suneetha Bulla Garu
+        Thank You, Dr K Santhi mam
       </motion.h1>
 
       {/* Message */}
@@ -37,7 +37,13 @@ function App() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.8, duration: 1 }}
       >
-        “Ma’am, it’s hard to put into words how grateful we are to have had you with us through these two semesters. You’ve not only been our teacher but also our biggest guide and supporter. We’ve learned lessons from you that go far beyond the classroom — lessons that will stay with us for life. Thank you for always being patient, for correcting us with care, and for believing in us even when we doubted ourselves. Your guidance, kindness, and inspiration mean the world to us. We’ll always cherish the time we spent learning under you.”
+        “Ma’am, it’s hard to express how grateful we are to have had you this semester. 
+        We’ve learned so many new technologies, and your way of teaching made even the 
+        most complex concepts feel simple and easy to understand. At first, we thought 
+        Edge Computing would be a tough subject, but you made it enjoyable and engaging. 
+        Thank you for always being patient, for correcting our mistakes with care, and for 
+        guiding us whenever we needed support. Your motivation and teaching have truly made 
+        a difference in our learning journey.”
       </motion.p>
 
       {/* Signature */}
